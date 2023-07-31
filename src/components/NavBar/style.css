@@ -1,0 +1,121 @@
+.nav-bar {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 19px 0px 19px 32px;
+  position: relative;
+  width: 1410px;
+}
+
+.nav-bar .frame {
+  height: 56px;
+  position: relative;
+  width: 1178px;
+}
+
+.nav-bar .frame-2 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 12px;
+  position: relative;
+  width: 1165px;
+}
+
+.nav-bar .frame-3 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0px;
+  position: relative;
+  width: 753.5px;
+  margin-right: 20px;
+}
+
+.nav-bar .text-wrapper-2 {
+  color: #000000;
+  font-family: var(--h5-font-family);
+  font-size: var(--h5-font-size);
+  font-style: var(--h5-font-style);
+  font-weight: var(--h5-font-weight);
+  letter-spacing: var(--h5-letter-spacing);
+  line-height: var(--h5-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-bar .group {
+  height: 32px;
+  position: relative;
+  width: 171.5px;
+}
+
+.nav-bar .fundraiser-for {
+  color: #000000;
+  font-family: var(--h5-font-family);
+  font-size: var(--h5-font-size);
+  font-style: var(--h5-font-style);
+  font-weight: var(--h5-font-weight);
+  left: 0;
+  letter-spacing: var(--h5-letter-spacing);
+  line-height: var(--h5-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.nav-bar .ic-baseline-arrow-drop-down {
+  left: 138px !important;
+}
+
+.nav-bar .group-2 {
+  height: 28px;
+  margin-right: -2px;
+  position: relative;
+  width: 102px;
+}
+
+.nav-bar .ph-magnifying-glass-light {
+  top: 2px !important;
+}
+
+.nav-bar .search {
+  color: #000000;
+  font-family: var(--h5-font-family);
+  font-size: var(--h5-font-size);
+  font-style: var(--h5-font-style);
+  font-weight: var(--h5-font-weight);
+  left: 34px;
+  letter-spacing: var(--h5-letter-spacing);
+  line-height: var(--h5-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.nav-bar .frame-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 26px;
+  justify-content: center;
+  position: relative;
+}
+
+.nav-bar .design-component-instance-node {
+  align-items: center !important;
+  flex: 0 0 auto !important;
+  justify-content: center !important;
+}
+
+.nav-bar .design-component-instance-node-2 {
+  font-family: var(--h5-font-family) !important;
+  font-size: var(--h5-font-size) !important;
+  font-style: var(--h5-font-style) !important;
+  font-weight: var(--h5-font-weight) !important;
+  letter-spacing: var(--h5-letter-spacing) !important;
+  line-height: var(--h5-line-height) !important;
+}

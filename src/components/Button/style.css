@@ -1,0 +1,26 @@
+.button {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 12px;
+  display: inline-flex;
+  gap: 10px;
+  padding: 14px 28px;
+  position: relative;
+  cursor: grab;
+}
+
+.button .div {
+  color: #1e1e1e;
+  font-family: var(--p3-font-family);
+  font-size: var(--p3-font-size);
+  font-style: var(--p3-font-style);
+  font-weight: var(--p3-font-weight);
+  letter-spacing: var(--p3-letter-spacing);
+  line-height: var(--p3-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+  cursor: grab;
+}

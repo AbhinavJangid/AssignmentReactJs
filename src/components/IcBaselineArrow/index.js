@@ -1,0 +1,1 @@
+export { IcBaselineArrow } from "./IcBaselineArrow";

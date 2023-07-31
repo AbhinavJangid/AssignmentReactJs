@@ -1,0 +1,1 @@
+export { IcBaselineWhatsapp } from "./IcBaselineWhatsapp";

@@ -1,0 +1,1 @@
+export { GameIconsPayMoney } from "./GameIconsPayMoney";
